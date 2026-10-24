@@ -2,9 +2,10 @@
 
 A responsive multi-page restaurant website concept for **La Fontana Trattoria**, an Italian restaurant demo. Built to showcase front-end development, restaurant storytelling, menu presentation, and reservation/contact interfaces.
 
-## Preview
+## Live Demo
 
-> Add the live demo URL here when ready.
+- [View the website](https://neyra-lab.github.io/La-fontana/)
+- [View the booking page](https://neyra-lab.github.io/La-fontana/booking.html)
 
 ## Pages
 
